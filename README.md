@@ -1,1 +1,3 @@
 # Project-Mxtire
+This project is a collaboratory project from BinaryDev, Ahmed Yakub, Symphony and Istokov...
+The details of the project would be updated as the work design progresses.
